@@ -3,6 +3,7 @@
   "type": "datasource",
   "name": "WebSocket API",
   "id": "golioth-websocket-datasource",
+  "logs": true,
   "metrics": true,
   "backend": true,
   "streaming": true,
